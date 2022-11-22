@@ -7,7 +7,7 @@
 * ฟังก์ชันด้านกริยาของหุ่นยนต์
 * ฟังก์ชันด้าน อ่าน/เขียน .csv ไฟล์
 
-| Table Lift Title | Table Center Title | Table Right Title |
+| N | E | Table Right Title |
 | :--------------- | :----------------: | ----------------: |
 | left 1           | center 1           | right 1           |
 | left 2           | center 2           | right 2           |
