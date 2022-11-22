@@ -9,8 +9,5 @@
 
 | N | E | S | 
 | :--------------- | :----------------: | ----------------: | ----------------: |
-| left 1           | center 1           | right 1           | 1
-| left 2           | center 2           | right 2           |
-| left 3           | center 3           | right 3           |
-| left 4           | center 4           | right 4           |
-| left 5           | center 5           | right 5           |
+| left 1           | center 1           | right 1           | 1                 |
+
